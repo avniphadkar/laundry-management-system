@@ -1,5 +1,5 @@
 # laundarty Management System 
-
+    A Laundry Management System automates laundry operations, from order processing to inventory management, scheduling, billing, and reporting, enhancing efficiency.
 
 ## Technologies
     - PHP: This project requires PHP version 7.3 or higher.
@@ -9,17 +9,6 @@
     - laravel/tinker: Version 2.5 or higher.
     - laravel/ui: Version 3.4 or higher.
     - spatie/laravel-permission: Version 5.5 or higher.
-
-## User Types and Permissions
-
-1. **Admin/Owner**
-   - Access: `<url>/admin/login`
-   - Manages articles, comments, categories, keywords, and other users (except Owner).
-
-2. **Reader**
-   - Reads and comments on articles with email addresses.
-   - Subscribes to new articles.
-   - Searches and navigates articles by categories.
 
 ## Installation
 
