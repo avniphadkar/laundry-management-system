@@ -12,10 +12,11 @@
 
 ## Installation
 
-1. Clone: `git clone https://github.com/avniphadkar/lavavel-blog.git`
-2. Install dependencies: `composer install`
-3. Setup environment: Copy `.env.example` to `.env` and run `php artisan key: generate`.
-4. Database: Create, configure `.env`, and run `php artisan migrate: fresh --seed`.
-5. Start: `php artisan serve`
-6. Access: Visit `localhost:8000`.
+1. Clone: `https://github.com/avniphadkar/laundary-management-system.git`
+2. cd laundary-management-system
+3. Install dependencies: `composer install`
+4. Setup environment: Copy `.env.example` to `.env` and run `php artisan key: generate`.
+5. Database: Create, configure `.env`, and run `php artisan migrate: fresh --seed`.
+6. Start: `php artisan serve`
+7. Access: Visit `localhost:8000`.
 
