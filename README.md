@@ -1,4 +1,4 @@
-# laundarty Management System 
+# laundry Management System 
     A Laundry Management System automates laundry operations, from order processing to inventory management, scheduling, billing, and reporting, enhancing efficiency.
 
 ## Technologies
@@ -12,8 +12,8 @@
 
 ## Installation
 
-1. Clone: `https://github.com/avniphadkar/laundary-management-system.git`
-2. cd laundary-management-system
+1. Clone: `https://github.com/avniphadkar/laundry-management-system.git`
+2. cd laundry-management-system
 3. Install dependencies: `composer install`
 4. Setup environment: Copy `.env.example` to `.env` and run `php artisan key: generate`.
 5. Database: Create, configure `.env`, and run `php artisan migrate: fresh --seed`.
