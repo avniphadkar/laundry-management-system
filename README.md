@@ -1,11 +1,4 @@
 # laundry Management System 
-    A Laundry Management System automates laundry operations, from order processing to inventory management, scheduling, billing, and reporting, enhancing efficiency.
-
-## Technologies
-    - PHP: This project requires PHP version 7.3 or higher.
-    - composer installed on your machine
-    - laravel/framework: Version 8.75 or higher.
-    - spatie/laravel-permission: Version 5.5 or higher.
 
 ## Installation
 
